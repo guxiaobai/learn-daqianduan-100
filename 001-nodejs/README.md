@@ -6,7 +6,10 @@
 
 **macOS**
 
-`brew install node`
+```
+brew install node@14
+echo 'set -g fish_user_paths "/usr/local/opt/node@14/bin" $fish_user_paths' >> ~/.config/fish/config.fish
+```
 
 **Ubuntu**
 
