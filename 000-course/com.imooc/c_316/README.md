@@ -15,3 +15,4 @@
 * [x] 2-2 什么是模块打包工具？- `Fri Mar  5 22:02:51 CST 2021`
 * [x] 2-3 Webpack的正确安装方式 - `Fri Mar  5 22:10:38 CST 2021`
 * [x] 2-4 使用Webpack的配置文件 - `Fri Mar  5 22:36:29 CST 2021`
+* [x] 2-5 浅析 Webpack 打包输出内容 - `Fri Mar  5 22:40:56 CST 2021`
