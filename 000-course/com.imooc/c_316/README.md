@@ -20,3 +20,4 @@
 **第3章 Webpack 的核心概念**
 
 * [x] 3-1 什么是 loader - `Fri Mar  5 23:52:55 CST 2021`
+* [x] 3-2 使用 Loader 打包静态资源（图片篇）- `Sat Mar  6 00:40:26 CST 2021`
