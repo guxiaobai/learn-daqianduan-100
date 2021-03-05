@@ -17,3 +17,4 @@
 * [x] #11 Babel Plugins - plugin-transform-arrow-functions - `Fri Mar  5 17:08:35 CST 2021`
 * [x] #12 Babel Plugins - 更多的插件 - `Fri Mar  5 17:09:36 CST 2021`
 * [x] #13 Babel Presets - @babel/preset-env - `Fri Mar  5 17:10:36 CST 2021`
+* [x] #14 devtool false 让编译后的代码可读性强一些 - `Fri Mar  5 17:12:13 CST 2021`
