@@ -16,3 +16,7 @@
 * [x] 2-3 Webpack的正确安装方式 - `Fri Mar  5 22:10:38 CST 2021`
 * [x] 2-4 使用Webpack的配置文件 - `Fri Mar  5 22:36:29 CST 2021`
 * [x] 2-5 浅析 Webpack 打包输出内容 - `Fri Mar  5 22:40:56 CST 2021`
+
+**第3章 Webpack 的核心概念**
+
+* [x] 3-1 什么是 loader - `Fri Mar  5 23:52:55 CST 2021`
