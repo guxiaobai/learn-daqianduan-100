@@ -9,3 +9,4 @@
 * [x] #3 zero config - `Fri Mar  5 16:51:36 CST 2021`
 * [x] #4 Mode - `Fri Mar  5 16:52:13 CST 2021`
 * [x] #5 搭建项目 - `Fri Mar  5 16:53:01 CST 2021`
+* [x] #6 用 npx 来解决全局安装的问题 - `Fri Mar  5 16:53:35 CST 2021`
