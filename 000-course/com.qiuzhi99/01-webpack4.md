@@ -15,3 +15,4 @@
 * [x] #9 什么是 Babel - `Fri Mar  5 16:59:45 CST 2021`
 * [x] #10 babel-loader 的介绍与安装 - `Fri Mar  5 17:07:58 CST 2021`
 * [x] #11 Babel Plugins - plugin-transform-arrow-functions - `Fri Mar  5 17:08:35 CST 2021`
+* [x] #12 Babel Plugins - 更多的插件 - `Fri Mar  5 17:09:36 CST 2021`
