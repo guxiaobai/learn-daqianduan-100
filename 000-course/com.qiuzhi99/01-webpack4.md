@@ -13,3 +13,4 @@
 * [x] #7 配置文件 Webpack.config.js - `Fri Mar  5 16:54:11 CST 2021`
 * [x] #8 配置多入口文件 Entry Points - `Fri Mar  5 16:57:13 CST 2021`
 * [x] #9 什么是 Babel - `Fri Mar  5 16:59:45 CST 2021`
+* [x] #10 babel-loader 的介绍与安装 - `Fri Mar  5 17:07:58 CST 2021`
