@@ -6,3 +6,4 @@
 
 * [x] #1 课程介绍 - `Fri Mar  5 16:45:22 CST 2021`
 * [x] #2 安装 - `Fri Mar  5 16:49:34 CST 2021`
+* [x] #3 zero config - `Fri Mar  5 16:51:36 CST 2021`
