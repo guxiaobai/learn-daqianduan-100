@@ -18,3 +18,4 @@
 * [x] #12 Babel Plugins - 更多的插件 - `Fri Mar  5 17:09:36 CST 2021`
 * [x] #13 Babel Presets - @babel/preset-env - `Fri Mar  5 17:10:36 CST 2021`
 * [x] #14 devtool false 让编译后的代码可读性强一些 - `Fri Mar  5 17:12:13 CST 2021`
+* [x] #21 使用第一个 Webpack 插件 html-Webpack-plugin - `Fri Mar  5 17:26:55 CST 2021`
