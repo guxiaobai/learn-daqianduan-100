@@ -9,6 +9,7 @@
 * [`webpack-cli`](https://github.com/webpack/webpack-cli)
 * [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
 * [`clean-webpack-plugin`](https://github.com/johnagan/clean-webpack-plugin)
+* [`webpack-dev-server`](https://github.com/webpack/webpack-dev-server)
 
 **Asset**
 
