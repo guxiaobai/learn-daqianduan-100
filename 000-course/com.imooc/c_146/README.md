@@ -13,3 +13,4 @@
 **第2章 NodeJS 是什么，为什么偏爱NodeJS？**
 
 * [x] 2-1 NodeJS 是什么 - `Sat Mar  6 20:32:32 CST 2021`
+* [x] 2-2 NodeJS 究竟好在哪里 - `Sat Mar  6 20:34:46 CST 2021`
