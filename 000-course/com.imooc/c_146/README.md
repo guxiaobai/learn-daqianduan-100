@@ -25,3 +25,4 @@
 * [x] 3-6 环境 & 调试——global变量 - `Sat Mar  6 21:32:35 CST 2021`
 * [x] 3-7 环境 & 调试——process进程 - `Sat Mar  6 21:38:45 CST 2021`
 * [x] 3-8 环境 & 调试——debug1 - `Sat Mar  6 21:47:17 CST 2021`
+* [x] 3-9 环境 & 调试——debug2 - `Sat Mar  6 21:51:46 CST 2021`
