@@ -17,6 +17,11 @@
 * ~~[`url-loader`](https://github.com/webpack-contrib/url-loader)~~ - `Depreacted`
 * ~~[`file-loader`](https://github.com/webpack-contrib/file-loader)~~ - `Depreacted`
 
+
+**Series**
+
+* [SourceMap](./source-map.md)
+
 ### 参考资料
 
 * [https://webpack.js.org/](https://webpack.js.org/)
