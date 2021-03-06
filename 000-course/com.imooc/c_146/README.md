@@ -14,3 +14,7 @@
 
 * [x] 2-1 NodeJS 是什么 - `Sat Mar  6 20:32:32 CST 2021`
 * [x] 2-2 NodeJS 究竟好在哪里 - `Sat Mar  6 20:34:46 CST 2021`
+
+**第3章 环境 & 调试**
+
+* [x]  3-1 环境 & 调试 ——CommonJS1 - `Sat Mar  6 21:11:19 CST 2021`
