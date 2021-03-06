@@ -24,3 +24,4 @@
 * [x] 3-3 使用 Loader 打包静态资源（样式篇 - 上）- `Sat Mar  6 10:22:58 CST 2021`
 * [x] 3-4 使用 Loader 打包静态资源（样式篇 - 下） - `Sat Mar  6 15:34:58 CST 2021`
 * [x] 3-5 使用 plugins 让打包更便捷 - `Sat Mar  6 16:07:21 CST 2021`
+* [x] 3-6 Entry 与 Output 的基础配置 - `Sat Mar  6 16:20:11 CST 2021`
