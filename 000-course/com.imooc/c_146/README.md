@@ -22,3 +22,4 @@
 * [x] 3-3 环境 & 调试 ——CommonJS3 - `Sat Mar  6 21:15:06 CST 2021`
 * [x] 3-4 环境 & 调试——引用系统内置模块&引用第三方模块 - `Sat Mar  6 21:26:45 CST 2021`
 * [x] 3-5 环境 & 调试——module.exports 与 exports 的区别 - `Sat Mar  6 21:30:50 CST 2021`
+* [x] 3-6 环境 & 调试——global变量 - `Sat Mar  6 21:32:35 CST 2021`
