@@ -9,3 +9,7 @@
 
 * [x] 1-1 导学 - `Sat Mar  6 20:22:42 CST 2021`
 * [x] 1-2 课程介绍 - `Sat Mar  6 20:24:32 CST 2021`
+
+**第2章 NodeJS 是什么，为什么偏爱NodeJS？**
+
+* [x] 2-1 NodeJS 是什么 - `Sat Mar  6 20:32:32 CST 2021`
