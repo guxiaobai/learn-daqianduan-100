@@ -11,16 +11,10 @@
 * [`clean-webpack-plugin`](https://github.com/johnagan/clean-webpack-plugin)
 * [`webpack-dev-server`](https://github.com/webpack/webpack-dev-server)
 
-**Asset**
-
-* [`asset modules`](https://webpack.js.org/guides/asset-modules/) - `v5`
-* ~~[`raw-loader`](https://github.com/webpack-contrib/raw-loader)~~ - `Depreacted`
-* ~~[`url-loader`](https://github.com/webpack-contrib/url-loader)~~ - `Depreacted`
-* ~~[`file-loader`](https://github.com/webpack-contrib/file-loader)~~ - `Depreacted`
-
 
 **Series**
 
+* [Asset Modules](./asset-modules.md)
 * [SourceMap](./source-map.md)
 
 ### 参考资料
