@@ -27,3 +27,4 @@
 * [x] 3-6 Entry 与 Output 的基础配置 - `Sat Mar  6 16:20:11 CST 2021`
 * [x] 3-7 SourceMap 的配置 - `Sat Mar  6 17:56:59 CST 2021`
 * [x] 3-8 使用 WebpackDevServer 提升开发效率 - `Sat Mar  6 19:54:26 CST 2021`
+* [x] 3-9 Hot Module Replacement 热模块更新（1） - `Sun Mar  7 10:34:05 CST 2021`
