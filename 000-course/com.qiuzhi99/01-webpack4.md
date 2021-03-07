@@ -16,6 +16,6 @@
 * [x] #10 babel-loader 的介绍与安装 - `Sun Mar  7 11:08:41 CST 2021`
 * [x] #11 Babel Plugins - plugin-transform-arrow-functions - `Sun Mar  7 11:13:51 CST 2021`
 * [x] #12 Babel Plugins - 更多的插件 - `Sun Mar  7 11:16:37 CST 2021`
-* [x] #13 Babel Presets - @babel/preset-env - `Fri Mar  5 17:10:36 CST 2021`
+* [x] #13 Babel Presets - @babel/preset-env - `Sun Mar  7 11:35:40 CST 2021`
 * [x] #14 devtool false 让编译后的代码可读性强一些 - `Fri Mar  5 17:12:13 CST 2021`
 * [x] #21 使用第一个 Webpack 插件 html-Webpack-plugin - `Fri Mar  5 17:26:55 CST 2021`
