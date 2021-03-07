@@ -29,3 +29,4 @@
 * [x] 3-8 使用 WebpackDevServer 提升开发效率 - `Sat Mar  6 19:54:26 CST 2021`
 * [x] 3-9 Hot Module Replacement 热模块更新（1） - `Sun Mar  7 10:34:05 CST 2021`
 * [x] 3-10 Hot Module Replacement 热模块更新（2）- `Sun Mar  7 10:37:03 CST 2021`
+* [x] 3-11 使用 Babel 处理 ES6 语法（1）- `Sun Mar  7 10:52:01 CST 2021`
