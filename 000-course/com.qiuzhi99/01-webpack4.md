@@ -22,4 +22,5 @@
 * [x] #16 @babel/polyfill 的那些事儿 part 2 - 原理及如何解决 - `Mon Mar  8 10:20:09 CST 2021`
 * [x] #17 @babel/polyfill 的那些事儿 part 3 - preset-env 的选项和按须编译 - `Mon Mar  8 10:23:56 CST 2021`
 * [x] #18 @babel/runtime - `Mon Mar  8 10:31:33 CST 2021`
+* [x] #19 @babel/plugin-transform-runtime 是如何工作的 - `Mon Mar  8 14:46:22 CST 2021`
 * [x] #21 使用第一个 Webpack 插件 html-Webpack-plugin - `Fri Mar  5 17:26:55 CST 2021`
