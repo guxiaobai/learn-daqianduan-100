@@ -27,4 +27,5 @@
 * [x] #21 使用第一个 Webpack 插件 html-Webpack-plugin - `Fri Mar  5 17:26:55 CST 2021`
 * [ ] #22 配置多个单页面应用
 * [x] #23 使用 loader 来处理 CSS - `Mon Mar  8 14:57:54 CST 2021`
+* [x] #24 使用 loader 来处理 Sass 和 Less 文件 - `Mon Mar  8 14:59:08 CST 2021`
 
