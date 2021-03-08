@@ -7,10 +7,16 @@
 
 * [`webpack`](https://github.com/webpack/webpack)
 * [`webpack-cli`](https://github.com/webpack/webpack-cli)
+* [`webpack-dev-server`](https://github.com/webpack/webpack-dev-server)
+* [`webpack-merge`](https://github.com/survivejs/webpack-merge)
+
+
+**Plugin**
+
 * [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
 * [`clean-webpack-plugin`](https://github.com/johnagan/clean-webpack-plugin)
-* [`webpack-dev-server`](https://github.com/webpack/webpack-dev-server)
-
+* [`webpackbar`](https://github.com/unjsio/webpackbar)
+* [`friendly-errors-webpack-plugin`](https://github.com/geowarin/friendly-errors-webpack-plugin)
 
 **Series**
 
