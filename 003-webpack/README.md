@@ -16,6 +16,7 @@
 
 * [Asset Modules](./asset-modules.md)
 * [SourceMap](./source-map.md)
+* [Hot Module Replacement](./hot-module-replacement.md)
 
 ### 参考资料
 
