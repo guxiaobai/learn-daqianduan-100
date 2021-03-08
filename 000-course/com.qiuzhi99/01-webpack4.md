@@ -19,4 +19,5 @@
 * [x] #13 Babel Presets - @babel/preset-env - `Sun Mar  7 11:35:40 CST 2021`
 * [x] #14 devtool false 让编译后的代码可读性强一些 - `Sun Mar  7 11:48:34 CST 2021`
 * [x] #15 @babel/polyfill 的那些事儿 part 1 - `Mon Mar  8 10:01:22 CST 2021`
+* [x] #16 @babel/polyfill 的那些事儿 part 2 - 原理及如何解决 - `Mon Mar  8 10:20:09 CST 2021`
 * [x] #21 使用第一个 Webpack 插件 html-Webpack-plugin - `Fri Mar  5 17:26:55 CST 2021`
