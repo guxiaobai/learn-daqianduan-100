@@ -29,4 +29,5 @@
 * [x] #23 使用 loader 来处理 CSS - `Mon Mar  8 14:57:54 CST 2021`
 * [x] #24 使用 loader 来处理 Sass 和 Less 文件 - `Mon Mar  8 14:59:08 CST 2021`
 * [x] #26 启动服务器并实时刷新 Webpack-dev-server - `Mon Mar  8 15:02:46 CST 2021`
+* [x] #27 用 clean-Webpack-plugin 来清除文件 - `Mon Mar  8 15:03:51 CST 2021`
 
