@@ -30,8 +30,8 @@ npm - scripts
 ### 2 - Babel
 
 ```bash
-npm install --save-dev babel-loader @babel/core @babel/preset-env
-npm install --save core-js regenerator-runtime
+npm install --save-dev babel-loader @babel/core @babel/preset-env @babel/preset-react
+npm install --save core-js@3.9 regenerator-runtime
 ```
 
 
@@ -45,5 +45,5 @@ npm install --save-dev css-loader style-loader \
 ### 4 - React
 
 ```bash
-npm install --save-dev react react-dom @babel/preset-react
+npm install --save react react-dom
 ```
