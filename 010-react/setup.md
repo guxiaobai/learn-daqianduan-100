@@ -15,7 +15,7 @@ fixed: npm install --save-dev loader-utils
 ```bash
 npm install --save-dev webpack webpack-cli \
 		webpack-dev-server webpack-merge webpackbar cross-env\
-		html-webpack-plugin clean-webpack-plugin \
+		html-webpack-plugin
 ```
 
 npm - scripts

@@ -9,7 +9,8 @@ module.exports = {
   entry:"./src/index.js",
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: devMode ? '[name].js' : 'js/[name]-[hash].js'
+    filename: devMode ? '[name].js' : 'js/[name]-[hash].js',
+    clean: true
   },
   plugins: [
     new WebpackBar(),

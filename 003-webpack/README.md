@@ -14,7 +14,6 @@
 **Plugin**
 
 * [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
-* [`clean-webpack-plugin`](https://github.com/johnagan/clean-webpack-plugin)
 * [`webpackbar`](https://github.com/unjsio/webpackbar)
 * [`friendly-errors-webpack-plugin`](https://github.com/geowarin/friendly-errors-webpack-plugin)
 
