@@ -31,7 +31,9 @@ npm - scripts
 
 ```bash
 npm install --save-dev babel-loader @babel/core @babel/preset-env
+npm install --save core-js regenerator-runtime
 ```
+
 
 ### 3 - Css
 

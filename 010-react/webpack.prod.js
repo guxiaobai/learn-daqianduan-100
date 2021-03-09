@@ -8,7 +8,6 @@ const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = merge(common,{
   plugins: [
-    new CleanWebpackPlugin(),
     new MiniCssExtractPlugin({
       filename: 'css/[name]-[hash].css'
     })
