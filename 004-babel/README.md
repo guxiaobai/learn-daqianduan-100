@@ -8,10 +8,11 @@
 
 **Transform**
 
-> [`@babel/preset-env`](https://babeljs.io/docs/en/babel-preset-env)
+> [plugins](https://babeljs.io/docs/en/plugins) (插件 - `单个`) / [presets](https://babeljs.io/docs/en/presets) (预设 - `一组`)
 
-* [plugins](https://babeljs.io/docs/en/plugins) (插件 - `单个`)
-* [presets](https://babeljs.io/docs/en/presets) (预设 - `一组`)
+* [`@babel/preset-env`](https://babeljs.io/docs/en/babel-preset-env)
+* [`@babel/plugin-syntax-dynamic-import`](https://babeljs.io/docs/en/babel-plugin-syntax-dynamic-import)
+
 
 
 **polyfill**
