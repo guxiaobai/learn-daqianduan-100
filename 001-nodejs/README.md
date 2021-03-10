@@ -30,6 +30,7 @@ sudo apt-get install nodejs
 
 * [Debugging Guide](./debugging-getting-started.md)
 
+
 ### 参考资料
 
 * [https://nodejs.org/en/](https://nodejs.org/en/)
@@ -37,4 +38,4 @@ sudo apt-get install nodejs
 * [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/)
 * [nodesource/distributions](https://github.com/nodesource/distributions)
 * [https://nodejs.org/api/](https://nodejs.org/api/)
-* [Node.js入门到企业Web开发中的应用 - 慕课网](../000-course/com.imooc/c_146)
+* [Node.js入门到企业Web开发中的应用 - 慕课网](https://github.com/guxiaobai/learn-course-100/tree/main/com.imooc/c-146)
