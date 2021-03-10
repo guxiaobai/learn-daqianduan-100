@@ -27,3 +27,4 @@
 
 * [https://webpack.js.org/](https://webpack.js.org/)
 * [https://webpack.docschina.org/](https://webpack.docschina.org/)
+* [从基础到实战手把手带你掌握新版Webpack4](https://github.com/guxiaobai/learn-course-100/tree/main/com.imooc/c-316)
