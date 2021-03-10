@@ -2,13 +2,9 @@
 
 ### Bugs
 
-[Error: Cannot find module 'loader-utils' - @html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin/issues/1625#issuecomment-792588914)
+* [x][Error: Cannot find module 'loader-utils' - @html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin/issues/1625#issuecomment-792588914)
+* [ ] [Upgrade to chokidar 3 to support the Node v14 release - @webpack-dev-server](https://github.com/webpack/webpack-dev-server/issues/2528)
 
-```
-state: pending
-time: Mon Mar  8 20:53:32 CST 2021
-fixed: npm install --save-dev loader-utils
-```
 
 ### 1 - Basic
 
@@ -40,6 +36,8 @@ npm install --save core-js@3.9 regenerator-runtime
 ```bash
 npm install --save-dev css-loader style-loader \
 			mini-css-extract-plugin css-minimizer-webpack-plugin
+			
+npm install --save-dev postcss-loader postcss autoprefixer
 ```
 
 ### 4 - React

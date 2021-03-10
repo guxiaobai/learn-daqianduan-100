@@ -1,9 +1,5 @@
 ## 003 webpack
 
-### WARN
-
-* [ ] [Upgrade to chokidar 3 to support the Node v14 release](https://github.com/webpack/webpack-dev-server/issues/2528) - `webpack-dev-server`
-
 ### packages
 
 **Basic**
