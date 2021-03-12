@@ -10,6 +10,13 @@
 * [`webpack-merge`](https://github.com/survivejs/webpack-merge)
 
 
+### Proxy
+
+* [`http-proxy`](https://github.com/nodejitsu/node-http-proxy)
+* [`http-proxy-middleware`](https://github.com/chimurai/http-proxy-middleware)
+* [关于webpack-dev-server代理的哪些事儿](https://github.com/iuap-design/blog/issues/260)
+* [Webpack最简单的方式Mock API](https://segmentfault.com/a/1190000013220134)
+
 **Plugin**
 
 * [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
