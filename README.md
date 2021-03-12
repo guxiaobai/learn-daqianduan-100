@@ -9,3 +9,4 @@
 **CDN**
 
 * [https://unpkg.com/](https://unpkg.com/)
+* [https://www.bootcdn.cn/](https://www.bootcdn.cn/)
