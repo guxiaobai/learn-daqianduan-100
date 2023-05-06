@@ -7,10 +7,22 @@
 
 ## Ref
 
-* [`jQuery.getJSON()`](https://api.jquery.com/jQuery.getJSON/)
-* [axios](https://github.com/axios/axios)、[axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter)
-* [superagent](https://github.com/visionmedia/superagent)
-* [window.fetch polyfill](https://github.com/github/fetch)
-* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
-* [使用 Fetch - Web API 接口参考 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
 
+* [superagent](https://github.com/visionmedia/superagent)
+
+
+
+## #3 前端模拟 API 数据的两种方式
+
+> <https://www.qiuzhi99.com/movies/react-accounts/99.html>
+
+* <https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch>
+* <https://github.com/github/fetch>
+* <https://github.com/matthew-andrews/isomorphic-fetch>
+
+## #4 使用 jQuery 或 axios 请求 API 数据
+
+> <https://www.qiuzhi99.com/movies/react-accounts/101.html>
+
+* <https://api.jquery.com/jQuery.getJSON>
+* [axios](https://github.com/axios/axios)、[axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter)
