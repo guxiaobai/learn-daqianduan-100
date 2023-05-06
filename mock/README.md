@@ -29,15 +29,14 @@ before(app){
 ```
 
 
+## Ref
+
+* [mocker-api](https://github.com/jaywcjlove/mocker-api)、[example](https://github.com/jaywcjlove/mocker-api/tree/master/example) - `@TODO: 优先配合React`
+* [Mock.js](https://github.com/nuysoft/Mock)
+
 ## #3 前端模拟 API 数据的两种方式
 
-> [https://www.qiuzhi99.com/movies/react-accounts/99.html](https://www.qiuzhi99.com/movies/react-accounts/99.html)
+> <https://www.qiuzhi99.com/movies/react-accounts/99.html>
 
 * [https://mockapi.io/](https://mockapi.io/)
 * [json-server](https://github.com/typicode/json-server)
-
-
-## Ref
-
-* [mocker-api](https://github.com/jaywcjlove/mocker-api)、[example](https://github.com/jaywcjlove/mocker-api/tree/master/example)
-* [Mock.js](https://github.com/nuysoft/Mock)
