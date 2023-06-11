@@ -1,5 +1,16 @@
 # learn-daqianduan-100
 
+## [这5个 console.log() 技巧帮你提高工作效率](https://juejin.cn/post/6844904101893898247)
+
+> `2:03:51`: <https://www.bilibili.com/video/BV1Xg411B7yo/>
+
+```javascript
+console.log(
+"%c [ ]-41",
+"font-size: 13px; background: pink; color: #bf2c9f;"
+)
+```
+
 ### Misc
 
 * [Jade - Template Engine](https://jade-lang.com/)
